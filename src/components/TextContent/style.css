@@ -1,0 +1,18 @@
+.container-joke {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-joke textarea {
+  width: 100%;
+  height: 12rem;
+  padding: 1rem;
+  resize: none;
+  outline: none;
+  font-size: 1.2rem;
+  font-family: 'Roboto Mono', monospace;
+  color: inherit;
+  background-color: #fff;
+}
